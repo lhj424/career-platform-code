@@ -1,0 +1,61 @@
+- generic [ref=e96]:
+  - generic [ref=e97]:
+    - generic:
+      - generic: ☕
+      - generic: 🐍
+      - generic: ⚛️
+      - generic: 🤖
+      - generic: 🔷
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - img [ref=e102]
+        - generic [ref=e105]: IT求职
+      - heading "IT求职 · 技术人才的专属平台" [level=1] [ref=e106]
+      - paragraph [ref=e107]: 智能推荐、简历优化、技术面试模拟，助你拿下理想技术岗位
+      - generic [ref=e108]:
+        - generic [ref=e109]:
+          - img [ref=e112]
+          - generic [ref=e114]:
+            - generic [ref=e115]: 技术岗位精准匹配
+            - generic [ref=e116]: 基于AI分析你的技术栈与项目经验，精准匹配前端、后端、算法等IT岗位
+        - generic [ref=e117]:
+          - img [ref=e120]
+          - generic [ref=e122]:
+            - generic [ref=e123]: 技术简历智能优化
+            - generic [ref=e124]: AI诊断技术简历短板，优化项目经验描述，提升简历通过率
+        - generic [ref=e125]:
+          - img [ref=e128]
+          - generic [ref=e131]:
+            - generic [ref=e132]: 技术面试模拟训练
+            - generic [ref=e133]: 算法题、系统设计、八股文全覆盖，真实面试场景模拟
+    - generic [ref=e134]: © 2026 IT求职平台 · 技术人才专属
+  - generic [ref=e136]:
+    - generic [ref=e137]:
+      - img [ref=e139]
+      - generic [ref=e142]: IT求职平台
+    - heading "欢迎回来 👋" [level=2] [ref=e143]
+    - paragraph [ref=e144]: 登录你的账号，开启求职之旅
+    - generic [ref=e145]:
+      - generic [ref=e146] [cursor=pointer]: 密码登录
+      - generic [ref=e147] [cursor=pointer]: 验证码登录
+    - generic [ref=e148]:
+      - generic [ref=e152]:
+        - img [ref=e155]
+        - textbox "请输入用户名" [ref=e157]
+      - generic [ref=e162]:
+        - img [ref=e165]
+        - textbox "请输入密码" [ref=e168]
+      - generic [ref=e169]:
+        - generic [ref=e170] [cursor=pointer]:
+          - generic [ref=e171]:
+            - checkbox "记住我"
+          - generic [ref=e173]: 记住我
+        - generic [ref=e175] [cursor=pointer]: 忘记密码？
+      - button "立即登录" [ref=e178] [cursor=pointer]:
+        - generic [ref=e179]: 立即登录
+    - generic [ref=e180]:
+      - text: 还没有账号？
+      - generic [ref=e182] [cursor=pointer]: 立即注册
+    - generic [ref=e183]:
+      - img [ref=e185]
+      - generic [ref=e188]: 您的信息将受到严格保护，请放心登录

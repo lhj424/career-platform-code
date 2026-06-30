@@ -1,0 +1,49 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - generic:
+      - generic: 🔑
+      - generic: 📧
+      - generic: 🔒
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - img [ref=e9]
+        - generic [ref=e12]: IT求职
+      - heading "忘记密码？" [level=1] [ref=e13]
+      - paragraph [ref=e14]: 通过注册邮箱验证码即可快速重置密码，请确保访问的是您注册时使用的邮箱
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - img [ref=e19]
+          - generic [ref=e22]:
+            - generic [ref=e23]: 验证码发送
+            - generic [ref=e24]: 6位验证码将发送至您的注册邮箱，5分钟内有效
+        - generic [ref=e25]:
+          - img [ref=e28]
+          - generic [ref=e31]:
+            - generic [ref=e32]: 安全重置
+            - generic [ref=e33]: 验证通过后设置新密码，全程加密保护
+    - generic [ref=e34]: © 2026 IT求职平台 · 技术人才专属
+  - generic [ref=e36]:
+    - generic [ref=e37]:
+      - img [ref=e39]
+      - generic [ref=e42]: IT求职平台
+    - heading "重置密码" [level=2] [ref=e43]
+    - paragraph [ref=e44]: 请输入您的注册邮箱
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e47]: "1"
+        - generic [ref=e48]: 验证身份
+      - generic [ref=e50]:
+        - generic [ref=e51]: "2"
+        - generic [ref=e52]: 重置密码
+    - generic [ref=e53]:
+      - generic [ref=e57]:
+        - img [ref=e60]
+        - textbox "请输入注册邮箱" [ref=e63]
+      - button "获取验证码" [ref=e67] [cursor=pointer]:
+        - generic [ref=e68]: 获取验证码
+    - generic [ref=e69]:
+      - text: 想起密码了？
+      - generic [ref=e71] [cursor=pointer]: 返回登录
+    - generic [ref=e72]:
+      - img [ref=e74]
+      - generic [ref=e77]: 重置密码过程全程加密保护

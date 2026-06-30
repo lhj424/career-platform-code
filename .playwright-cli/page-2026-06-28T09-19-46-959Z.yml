@@ -1,0 +1,63 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e189]:
+    - generic [ref=e190]:
+      - generic:
+        - generic: 🔑
+        - generic: 📧
+        - generic: 🔒
+      - generic [ref=e191]:
+        - generic [ref=e192]:
+          - img [ref=e195]
+          - generic [ref=e198]: IT求职
+        - heading "忘记密码？" [level=1] [ref=e199]
+        - paragraph [ref=e200]: 通过注册邮箱验证码即可快速重置密码，请确保访问的是您注册时使用的邮箱
+        - generic [ref=e201]:
+          - generic [ref=e202]:
+            - img [ref=e205]
+            - generic [ref=e208]:
+              - generic [ref=e209]: 验证码发送
+              - generic [ref=e210]: 6位验证码将发送至您的注册邮箱，5分钟内有效
+          - generic [ref=e211]:
+            - img [ref=e214]
+            - generic [ref=e217]:
+              - generic [ref=e218]: 安全重置
+              - generic [ref=e219]: 验证通过后设置新密码，全程加密保护
+      - generic [ref=e220]: © 2026 IT求职平台 · 技术人才专属
+    - generic [ref=e222]:
+      - generic [ref=e223]:
+        - img [ref=e225]
+        - generic [ref=e228]: IT求职平台
+      - heading "重置密码" [level=2] [ref=e229]
+      - paragraph [ref=e230]: 请输入验证码和新密码
+      - generic [ref=e231]:
+        - generic [ref=e232]:
+          - generic [ref=e233]: "1"
+          - generic [ref=e234]: 验证身份
+        - generic [ref=e236]:
+          - generic [ref=e237]: "2"
+          - generic [ref=e238]: 重置密码
+      - generic [ref=e333]:
+        - generic [ref=e336]:
+          - img [ref=e338]
+          - generic [ref=e341]: 验证码已发送至 testfp@test.com
+        - textbox "请输入6位验证码" [ref=e346]
+        - generic [ref=e351]:
+          - img [ref=e354]
+          - textbox "请输入新密码（6-20位）" [ref=e357]
+        - generic [ref=e361]:
+          - img [ref=e364]
+          - textbox "请再次确认新密码" [ref=e367]
+        - button "重置密码" [ref=e370] [cursor=pointer]:
+          - generic [ref=e371]: 重置密码
+      - generic [ref=e372] [cursor=pointer]:
+        - img [ref=e374]
+        - generic [ref=e376]: 更换邮箱
+      - generic [ref=e255]:
+        - text: 想起密码了？
+        - generic [ref=e257] [cursor=pointer]: 返回登录
+      - generic [ref=e258]:
+        - img [ref=e260]
+        - generic [ref=e263]: 重置密码过程全程加密保护
+  - alert [ref=e377]:
+    - img [ref=e379]
+    - paragraph [ref=e381]: 验证码已发送至您的邮箱
